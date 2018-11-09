@@ -1,5 +1,3 @@
-﻿using System;
-
 namespace Apside_2.Models
 {
     public class Person
